@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/home/jason/miniconda3/envs/mini-rag-app/bin/python",
+"python.terminal.activateEnvironment": true,
+"python-envs.defaultEnvManager": "ms-python.python:system"
+}
